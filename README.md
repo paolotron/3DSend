@@ -85,7 +85,8 @@ Currently under review
   journal={IEEE Access}, 
   title={3D Semantic Novelty Detection via Large-Scale Pre-Trained Models}, 
   year={2024},
-  volume={12}}
+  volume={12},
+  pages={135352-135361}}
 ```
 
 
