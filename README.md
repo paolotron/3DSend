@@ -74,17 +74,18 @@ python send3d_launcher.py --help
 
 3D Send isn't bound to network architecture or pretraining, other networks can be added to the network list [here](networks/__init__.py)
 
-<!---
+
 ### Citation
 
 Currently under review
 
 ```
-@misc{Send3D,
-      title={3D Semantic Novelty Detection via Large-Scale Pre-Trained Models}, 
-      author={Paolo Rabino and Antonio Alliegro and Tatiana Tommasi},
-      year={2024},
-}
+@ARTICLE{Rabino3dsend,
+  author={Rabino, Paolo and Alliegro, Antonio and Tommasi, Tatiana},
+  journal={IEEE Access}, 
+  title={3D Semantic Novelty Detection via Large-Scale Pre-Trained Models}, 
+  year={2024},
+  volume={12}}
 ```
----!>
+
 
