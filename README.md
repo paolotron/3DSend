@@ -1,7 +1,7 @@
 
 # 3DSend
 This is the code repository for the [3D Semantic Novelty Detection
-via Large-Scale Pre-Trained Models](https://arxiv.org/abs/2310.03388)
+via Large-Scale Pre-Trained Models]([https://arxiv.org/abs/2310.03388](https://ieeexplore.ieee.org/document/10684168))
 
 ![alt text](src/model-long-questions.png "Model")
 
